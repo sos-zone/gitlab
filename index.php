@@ -3,6 +3,6 @@
 <title>GitLab</title>
 </head>
 <body>
-<h1>Документ Git</h1>
+<h1>Р”РѕРєСѓРјРµРЅС‚ Git</h1>
 </body>
 </html>
